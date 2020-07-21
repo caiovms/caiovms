@@ -1,6 +1,6 @@
 ### Olá 👋
 
-Meu nome é Caio Vinícius. Sou desenvolvedor back-end na [Warren Brasil](https://warren.com.br). Profissionalmente venho atuando com a stack DDD, .Net + EF Core e Docker. Nas horas vagas tenho me aventurado com Machine Learning e Python. 
+Meu nome é Caio Vinícius. Sou desenvolvedor back-end na [Warren Brasil](https://warren.com.br). Profissionalmente tenho atuado com .Net Core. Nas horas vagas me aventuro com Machine Learning e Python. 
 
 
 ### 📫 Como me encontrar:
