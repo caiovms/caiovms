@@ -8,8 +8,8 @@
 Meu nome é Caio, sou desenvolvedor back-end na [Warren Brasil](https://warren.com.br). Profissionalmente tenho atuado com .Net Core. Nas horas vagas me aventuro com Machine Learning e Python. 
 
 
-🎓 Bacharel em Sistemas de Informação & Mestrando em Ciência da Computação - UFS
-💻 C# | .Net | Python 
-⚽ Adoro jogar futebol
-🎵 Jack Jhonson & RHCP
+<br/>🎓 Bacharel em Sistemas de Informação & Mestrando em Ciência da Computação - UFS
+<br/>💻 C# | .Net | Python 
+<br/>⚽ Adoro jogar futebol
+<br/>🎵 Jack Jhonson & RHCP
 
