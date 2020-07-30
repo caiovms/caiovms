@@ -5,7 +5,9 @@
 [![Twitter Badge](https://img.shields.io/twitter/url?style=social&url=https%3A%2%2Fimg.shields.io%2Ftwitter%2Furl%3Fstyle%3Dsocial%26url%3Dhttps%253A%252F%252Ftwitter.com%252Fcaio_vms)](https://twitter.com/caio_vms)
 <br/>
 
-Meu nome é Caio, sou desenvolvedor back-end na [Warren Brasil](https://warren.com.br). Profissionalmente tenho atuado com .Net Core. Nas horas vagas me aventuro com Machine Learning e Python. 
+[![N|Solid](http://www.hostcgs.com.br/hostimagem/images/497octocat.png)](https://github.com/caiovms/caiovms)
+
+Meu nome é Caio, sou desenvolvedor de software na [Warren Brasil](https://warren.com.br). Tenho atuado profissonalmente com o ecossistema .Net, e nas horas vagas me aventuro com Machine Learning e Python. 
 
 
 <br/>🎓 Bacharel em Sistemas de Informação & Mestrando em Ciência da Computação - UFS
