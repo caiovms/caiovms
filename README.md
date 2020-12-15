@@ -10,7 +10,7 @@
 Meu nome é Caio, sou desenvolvedor de software na [Warren Brasil](https://warren.com.br). Tenho atuado profissonalmente com o ecossistema .Net, e nas horas vagas me aventuro com Machine Learning e Python. 
 
 
-<br/>🎓 Bacharel em Sistemas de Informação & Mestrando em Ciência da Computação - UFS
+<br/>🎓 Bacharel em Sistemas de Informação & Mestre em Ciência da Computação - UFS
 <br/>💻 C# | .Net | Python 
 <br/>⚽ Adoro jogar futebol
 <br/>🎵 Jack Jhonson & RHCP
