@@ -9,6 +9,5 @@ Meu nome é Caio, sou desenvolvedor back-end .NET na [Warren Brasil](https://war
 
 
 <br/>📫 Como me encontrar: caio_vms@outlook.com 
-<br/>💻 C# | Python 
+<br/>💻 Escrevo código utilizando C#, mas também tenho estudado Python 
 <br/>
-
