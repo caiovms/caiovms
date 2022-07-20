@@ -2,11 +2,13 @@
 
 Hi, my name is Caio, I work as a Senior Software Engineer at [Warren Brasil](https://warren.com.br).
 
-Enthusiastic developer with 7 years of experience in software development, mainly in the financial industry. I am delighted with the possibility of transforming code into valuable deliveries.
+Software engineer with 7 years of experience in back-end development mainly in the financial market. My work is focused on impacting the most customers by transforming code into value deliveries.
 
-I'm always trying to learn new things, currently I'm trying to get deeper into code practices and clean architecture. In the current project I work on, I've been delving into the resources of AWS.
+I write code mostly in C#, sometimes in Python.
 
-Being proactive and organized has brought me great results on my journey. I really believe in teamwork.
+I'm always trying to learn new things, currently I'm trying to delve into code practices and clean architecture and also in Cloud Computing using AWS.
+
+Being proactive and organized has brought me great results on my journey. Also, I strongly believe in teamwork.
 
 📫 How to find me: caio_vms@outlook.com
 
