@@ -1,12 +1,19 @@
 <H1> Caio Vinícius :man_technologist: </H1>
 
-Hi, my name is Caio, I work as a Senior Software Engineer at [Warren Brasil](https://warren.com.br).
+Hi, my name is Caio, 
 
-Software engineer with 7 years of experience in back-end development mainly in the financial market. My work is focused on impacting the most customers by transforming code into value deliveries.
+I'm Software Engineer with 7 years of experience in back-end development mainly in the financial industry, writing code in C#/.NET.
 
-I write code mostly in C#, sometimes in Python.
+  - Work experience creating a microservice from scratch to calculate multiple financial metrics, dealing with high volume data;
+  - Work experience remodeling architecture of a monolithic system in the insurance industry to use microservices;
+  - Work experience creating a WebApi for a bank correspondent, providing functionalities of a bank branch in these extension points;
+  - Work experience creating new features and maintaining a permission system for a multinational in the retail industry;
+  - Solid knowledge in .NET and cloud with AWS;
+  - Bachelor in Information Systems with Master in Computer Science;
 
-I'm always trying to learn new things, currently I'm trying to delve into code practices and clean architecture and also in Cloud Computing using AWS.
+I really like to learn new things, currently I'm trying to delve into code practices and clean architecture and also in Cloud Computing using AWS.
+
+I'm proactive, adaptable and centered. 
 
 Being proactive and organized has brought me great results on my journey. Also, I strongly believe in teamwork.
 
@@ -14,8 +21,6 @@ Being proactive and organized has brought me great results on my journey. Also, 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/caiovms)](https://github.com/caiovms)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caioviniciusmenesessilva/)](https://www.linkedin.com/in/caioviniciusmenesessilva/)
-
-💻 I mostly write code using C#, but I've also been studying Python.
 
 <div>
   <a align="center" href="https://github.com/caiovms">
