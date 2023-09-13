@@ -25,6 +25,10 @@ Being proactive and organized has brought me great results on my journey. Also, 
 <div>
   <a align="center" href="https://github.com/caiovms">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=caiovms&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&theme=tokyonight"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiovms&layout=compact&custom_title=Most used languages&langs_count=10&include_all_commits=true&hide_progress=true&hide_border=false&theme=tokyonight"/>
-
+</div>
+<br>
+<div>
+  <img height="165em" src="https://github.com/caiovms/caiovms/assets/5957094/2e502776-d6f5-418e-b0c8-36b908cf845c"/>
+  <img height="165em" src="https://github.com/caiovms/caiovms/assets/5957094/11c97f4f-3ffa-4e87-b83e-66afaf8bed14"/>
+  <img height="165em" src="https://github.com/caiovms/caiovms/assets/5957094/be542487-37ac-4409-a797-ad67ec7ad4a4"/>  
 </div>
