@@ -11,11 +11,11 @@ I'm Software Engineer with 7 years of experience in back-end development mainly 
   - Solid knowledge in .NET and cloud with AWS;
   - Bachelor in Information Systems with Master in Computer Science;
 
-I really like to learn new things, currently I'm trying to delve into code practices and clean architecture and also in Cloud Computing using AWS.
-
-I'm proactive, adaptable and centered. 
+I'm proactive, adaptable and centered and I'm always open to new challenges. 
 
 Being proactive and organized has brought me great results on my journey. Also, I strongly believe in teamwork.
+
+I really like to learn new things, currently I'm expanding my acting stack by learning about React + Node.js.
 
 📫 How to find me: caio_vms@outlook.com
 
