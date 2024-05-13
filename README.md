@@ -15,7 +15,7 @@ I'm proactive, adaptable and centered and I'm always open to new challenges.
 
 Being proactive and organized has brought me great results on my journey. Also, I strongly believe in teamwork.
 
-I really like to learn new things, currently I'm expanding my acting stack by learning about React + Node.js.
+I really like to learn new things, currently I'm expanding my acting stack by learning about Google Cloud Platform (GCP).
 
 📫 How to find me: caio_vms@outlook.com
 
